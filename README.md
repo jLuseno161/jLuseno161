@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript, Bootstrap, PHP an CSS
 - 💞️ I’m looking to collaborate with anyone in software development
 - 📫 You can find me via linkedin: @https://www.linkedin.com/in/joy-kolia-65918118b/
-                          github:@https://github.com/jLuseno161
