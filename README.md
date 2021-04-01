@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m Joy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript, Bootstrap, PHP an CSS
 - 💞️ I’m looking to collaborate with anyone in software development
