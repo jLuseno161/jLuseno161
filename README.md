@@ -1,4 +1,4 @@
-### Hi there 👋, I’m @Joy
+### Hi there 👋, I’m Joy
 
 <!--
 **jLuseno161/jLuseno161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m Joy
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript, Bootstrap, PHP an CSS
+- 💞️ I’m looking to collaborate with anyone in software development
+- 📫 You can find me via linkedin: @https://www.linkedin.com/in/joy-kolia-65918118b/
+                          github:@https://github.com/jLuseno161
