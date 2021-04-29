@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -->
 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, JQBootstrap, PHP an CSS
+- 🌱 I’m currently learning Javascript, JQuery,Bootstrap, HTML and CSS
 - 💞️ I’m looking to collaborate with anyone in software development
 - 📫 You can find me via linkedin: @https://www.linkedin.com/in/joy-kolia-65918118b/
