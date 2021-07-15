@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jLuseno161&hide=less,html,css,scss&layout=compact&title_color=6cc644&border_radius=0" />
   </a>
+  <hr>
 <a href="https://github.com/jLuseno161/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=jLuseno161&show_icons=true&count_private=true&hide=stars,issues&hide_title=true&icon_color=6cc644&border_radius=0" />
 </a>
 <hr>
-![](https://komarev.com/ghpvc/?username=jLuseno161&label=PROFILE+VISITS&color=brightgreen&style=flat-square)
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=jLuseno161&color=brightgreen" alt="watching_count" />
+ </p>
