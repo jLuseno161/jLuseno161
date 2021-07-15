@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript, JQuery,Bootstrap, HTML and CSS
 - 💞️ I’m looking to collaborate with anyone in software development
 - 📫 You can find me via linkedin: @https://www.linkedin.com/in/joy-kolia-65918118b/
+
+<hr>
+
+## Brief GitHub Stats.
+
+<a href="#">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jLuseno161&hide=less,html,css,scss&layout=compact&title_color=6cc644&border_radius=0" />
